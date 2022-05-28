@@ -18,7 +18,7 @@ I like to learn and use simple solutions to solve complex problems. I believe th
 
 ### Personal stuffs:
 - :computer: I'm curently working at <a href="https://github.com/BairesDev">BairesDev</a>.
-- :open_book: Studying for Java and other certifications.
+- :open_book: Studying for Java and other languages for certifications.
 - :rocket: Learning technical analysis.
 - :world_map: I love traveling.
 - :house: I live in Goiânia, Goiás - Brazil.
