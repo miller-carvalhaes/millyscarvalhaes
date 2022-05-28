@@ -24,23 +24,16 @@ I like to learn and use simple solutions to solve complex problems. I believe th
 - :house: I live in Goiânia, Goiás - Brazil.
 
 ### Langues and Tools:
-![Java_programming_language_logo](https://user-images.githubusercontent.com/4121237/170808008-d764fc46-83f9-45d8-bb82-2eb1bdfd17ba.svg)
-![angular](https://user-images.githubusercontent.com/4121237/170808077-eab25bf3-6949-4175-bd24-593b2d7efaf4.svg)
-![react](https://user-images.githubusercontent.com/4121237/170808120-e6f6c057-54aa-4d21-bc28-27f2736f46d1.svg)
+<img align="left" height="40" src="https://user-images.githubusercontent.com/4121237/170832961-e2edbb70-643e-4ac8-9744-70107ed3edf0.png" />
+<img align="left" height="40" src="https://user-images.githubusercontent.com/4121237/170832775-fe789463-a337-4ee0-963e-a888d9a6e2d9.png" />
+<img align="left" height="40" src="https://user-images.githubusercontent.com/4121237/170832858-c9f96d36-9e3f-471e-a206-13d81e149d42.png" />
+<img align="left" height="40" src="https://user-images.githubusercontent.com/4121237/170808077-eab25bf3-6949-4175-bd24-593b2d7efaf4.svg" />
+<img align="left" height="40" src="https://user-images.githubusercontent.com/4121237/170808120-e6f6c057-54aa-4d21-bc28-27f2736f46d1.svg" />
+<img align="left" height="40" src="https://user-images.githubusercontent.com/4121237/170808013-f4a0eccd-be8f-4c76-9674-85f52cb9a2e2.svg" />
+<img align="left" height="40" src="https://user-images.githubusercontent.com/4121237/170832576-2434ab45-5561-4454-80d2-745c5f2f8e07.png" />
+<img align="left" height="40" src="https://user-images.githubusercontent.com/4121237/170832580-5dcc1b7c-3b67-437d-bb3f-607ccde1a72a.png" />
+<img align="left" height="40" src="https://user-images.githubusercontent.com/4121237/170833199-eb44a682-c47d-4cf8-ad5f-e99b7b6cb382.png" />
 
-![javascript](https://user-images.githubusercontent.com/4121237/170808013-f4a0eccd-be8f-4c76-9674-85f52cb9a2e2.svg)
 
-<!--
-**millyscarvalhaes/millyscarvalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
